@@ -31,9 +31,9 @@ public class TrumpController : MonoBehaviour {
         }
 
         if (x != 0 || y != 0) {
-            anim.Play("walk");
+            anim.Play("Walk");
         } else {
-            anim.Play("idle");
+            anim.Play("Idle");
         }
 
 	}
