@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronaut AR.Plugins", "Astronaut AR.Plugins.csproj", "{DC859F2D-B9FE-382A-6CDD-A854F57D259D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronaut AR", "Astronaut AR.csproj", "{C1252942-5D3A-FEC7-51F6-37D9964DCD3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronaut AR.Editor.Plugins", "Astronaut AR.Editor.Plugins.csproj", "{C66ABF89-2170-A935-267A-83B7EA78A5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronaut AR.Editor", "Astronaut AR.Editor.csproj", "{1B351A53-02E4-282B-9B92-68850EB22F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC859F2D-B9FE-382A-6CDD-A854F57D259D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC859F2D-B9FE-382A-6CDD-A854F57D259D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC859F2D-B9FE-382A-6CDD-A854F57D259D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC859F2D-B9FE-382A-6CDD-A854F57D259D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1252942-5D3A-FEC7-51F6-37D9964DCD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1252942-5D3A-FEC7-51F6-37D9964DCD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1252942-5D3A-FEC7-51F6-37D9964DCD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1252942-5D3A-FEC7-51F6-37D9964DCD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66ABF89-2170-A935-267A-83B7EA78A5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66ABF89-2170-A935-267A-83B7EA78A5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66ABF89-2170-A935-267A-83B7EA78A5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66ABF89-2170-A935-267A-83B7EA78A5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B351A53-02E4-282B-9B92-68850EB22F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B351A53-02E4-282B-9B92-68850EB22F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B351A53-02E4-282B-9B92-68850EB22F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B351A53-02E4-282B-9B92-68850EB22F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
